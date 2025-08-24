@@ -1,13 +1,12 @@
-# parsing lordserial
+# 🍹🍋🌵 parsing lordserial
 
 this parsing lordserial.run
 
-start
 ```
 python3 lordserial.py
 ```
 
-then you have folder json and file_*.json
+🤖 then you have folder json and file_*.json
 
 ```
 [
